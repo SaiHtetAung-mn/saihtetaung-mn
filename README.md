@@ -76,7 +76,7 @@
 </span>
 <span>
   <img
-    src="https://e7.pngegg.com/pngimages/764/304/png-clipart-laravel-black-logo-tech-companies.png"
+    src="https://logowik.com/content/uploads/images/laravel8530.jpg"
     alt="laravel"
     width="40"
     height="40"
@@ -119,26 +119,11 @@
   />
 </span>
 
-<span>
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-    alt="aws"
-    width="40"
-    height="40"
-  />
-</span>
+
 <span>
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
     alt="css3"
-    width="40"
-    height="40"
-  />
-</span>
-<span>
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-    alt="docker"
     width="40"
     height="40"
   />
@@ -155,17 +140,34 @@
 
 <span>
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-    alt="nginx"
+    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+    alt="tailwind"
     width="40"
     height="40"
   />
 </span>
 
+<h4>DevOps & Tools</h4>
 <span>
   <img
-    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-    alt="tailwind"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    alt="aws"
+    width="40"
+    height="40"
+  />
+</span>
+<span>
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+    alt="docker"
+    width="40"
+    height="40"
+  />
+</span>
+<span>
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+    alt="nginx"
     width="40"
     height="40"
   />
